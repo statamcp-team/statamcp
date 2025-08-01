@@ -1,0 +1,2 @@
+# statamcp
+Stata-MCP Team
