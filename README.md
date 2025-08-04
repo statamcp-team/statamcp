@@ -33,6 +33,15 @@ You will join us to:
 - Identify flaws and areas for improvement
 - Co-create new research paradigms
 
+#### Prompt Engineering Expert
+We are looking for someone with a deep, unique understanding of prompt engineering. Together, we will explore how to fine-tune Stata-MCP’s performance through expertly crafted prompts.
+
+You will:
+
+- Be proficient in writing high-quality prompts
+- Understand how context engineering works
+- Enhance AI model performance by constructing effective contexts
+- Leverage prompts to guide the AI through each step of the research process
 
 
 #### Internships
