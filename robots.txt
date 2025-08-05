@@ -1,0 +1,9 @@
+# Allow all crawlers to index the site
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://team.statamcp.com/sitemap.xml
+
+# Feed (RSS/Atom)
+Sitemap: https://team.statamcp.com/feed.xml
