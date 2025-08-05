@@ -6,7 +6,7 @@
 
 [![PyPI version](https://img.shields.io/pypi/v/stata-mcp.svg)](https://pypi.org/project/stata-mcp/)
 [![PyPI Downloads](https://static.pepy.tech/badge/stata-mcp)](https://pepy.tech/projects/stata-mcp)
-[![License: MIT-Base](https://img.shields.io/badge/License-MIT--Base-yellow.svg)](LICENSE)
+[![License: MIT-Based](https://img.shields.io/badge/License-MIT--Based-yellow.svg)](LICENSE)
 [![Issue](https://img.shields.io/badge/Issue-report-green.svg)](https://github.com/sepinetam/stata-mcp/issues/new)
 [![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/SepineTam/stata-mcp)
 
