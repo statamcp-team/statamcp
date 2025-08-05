@@ -11,6 +11,14 @@ keywords:
   - Empirical Research
   - Academic Research
 
+author:  
+  name: "StataMCP Team"  
+  email: "statamcp@google.com"  
+
+social:
+  name: "StataMCP Team"
+  links:
+    - "https://www.instagram.com/statamcp"
 
 remote_theme: pages-themes/cayman@v0.2.0
 
